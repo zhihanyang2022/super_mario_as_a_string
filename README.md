@@ -1,2 +1,4 @@
 # Replication of Super Mario as a String
-Platformer Level Generation Via LSTMs
+
+Details:
+- Implemented in Python and Keras
