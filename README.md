@@ -2,6 +2,8 @@
 
 <img src="generated_levels_png/1.png">
 
+For more generated levels, please scroll to the bottom!
+
 ## Description
 
 This repo intends to replicate [Super Mario as a String: Platformer Level Generation Via LSTMs](https://arxiv.org/abs/1603.00930). However, there are some differences between this implementation and what the paper describes. In this implementation:
@@ -37,3 +39,13 @@ To understand how everything works, please go through the following notebooks in
 <img src="generated_levels_png/4.png">
 
 <img src="generated_levels_png/5.png">
+
+<img src="generated_levels_png/6.png">
+
+<img src="generated_levels_png/7.png">
+
+<img src="generated_levels_png/8.png">
+
+<img src="generated_levels_png/9.png">
+
+<img src="generated_levels_png/10.png">
