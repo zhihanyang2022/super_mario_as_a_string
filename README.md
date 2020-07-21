@@ -1,4 +1,4 @@
-# Generation of Super Mario levels using LSTM
+# Generating Super Mario levels using LSTM
 
 <img src="generated_levels_png/1.png">
 
