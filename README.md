@@ -1,6 +1,6 @@
 # Generating Super Mario levels using LSTM
 
-<img src="generated_levels_png/0.png">
+<img src="generated_levels_png/1.png">
 
 For more generated levels, please scroll to the bottom!
 
@@ -29,6 +29,8 @@ To understand how everything works, please go through the following notebooks in
 4. `04_convert_txt_to_png.ipynb`
 
 ## Example generations
+
+<img src="generated_levels_png/0.png">
 
 <img src="generated_levels_png/1.png">
 
