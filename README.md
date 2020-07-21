@@ -8,7 +8,7 @@ This repo intends to replicate [Super Mario as a String: Platformer Level Genera
 - Validation is done after each epoch instead of every 200 training examples (the paper was not clear on this).
 - The LSTM here is used similar to Andrej Karpathy's [min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086), which supports seeds of arbitrary length during generation. It isn't clear what the paper used. 
    - Please read through Andrej's code line-by-line if you are confused; it gave me a crystal clear understanding of the difference between a LSTM and a standard feed-forward neural network (that simply uses the last n to characters to predict the next). 
-   - To see some empirical evidence that LSTM memorizes longer than `seq_length` used for training, check out [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf).
+   - To see some empirical evidence that LSTM memorizes longer than `seq_length` used for training, check out the first paragraph of section 4.2 of [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf) by Andrej.
 - Perfect pipe generation is not achieved here.
 
 Please shoot me a pull request or message if you have any suggestions.
