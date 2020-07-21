@@ -1,3 +1,7 @@
+## Description
+
+This repo intends to replicate (Super Mario as a String: Platformer Level Generation Via LSTMs)[https://arxiv.org/abs/1603.00930]. 
+
 ## Instructions
 
 To understand how everything works, please go through the following notebooks in sequence:
