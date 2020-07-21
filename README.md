@@ -1,4 +1,4 @@
-# Replication of Super Mario as a String in Keras
+Here are some example generations:
 
 <img src="generated_levels_png/1.png">
 
